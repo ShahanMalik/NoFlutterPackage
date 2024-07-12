@@ -110,7 +110,7 @@ class _CustomLoaderState extends State<CustomLoader>
                                   delay: index / _itemCount,
                                 ).animate(_controller),
                                 child: SizedBox.fromSize(
-                                  size: Size.square(widget.size * 0.15),
+                                  size: Size.square(widget.size * 0.13),
                                   child: _itemBuilder(index),
                                 ),
                               ),
