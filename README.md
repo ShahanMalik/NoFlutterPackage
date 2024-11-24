@@ -1,16 +1,5 @@
-# flutter_tutorials
+# NoFlutterPackage
 
-A new Flutter project.
+https://github.com/user-attachments/assets/c0541b61-c893-43bc-b458-dd4f980a862b
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Dualpulse loading Code](https://github.com/ShahanMalik/NoFlutterPackage/blob/main/lib/LoadingIndicator/DualPulseLoader/example1/dual_pulseLoading_main.dart)
