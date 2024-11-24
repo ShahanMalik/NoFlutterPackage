@@ -21,6 +21,7 @@ class _DualPulseLoadingState extends State<DualPulseLoading>
       vsync: this,
     )..repeat(reverse: true);
 
+    /// [ 0 - 59 should be the range of the animation (balls) ]
     _animation = Tween<double>(begin: 0, end: 59).animate(_controller);
   }
 
