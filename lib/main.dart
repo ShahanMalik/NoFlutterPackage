@@ -1,14 +1,16 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_tutorials/LoadingIndicator/DualPulseLoader/example1/dual_pulseLoading_main.dart';
+import 'LoadingIndicator/snapLoader/snap_loader.dart';
 
-void main() => runApp(MyApp());
+void main() {
+  runApp(MyApp());
+}
 
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      debugShowCheckedModeBanner: false,
-      home: DualPulseLoadingMain(),
+      home: snapLoader(),
+      // home: Scaffold(),
     );
   }
 }
